@@ -84,6 +84,121 @@ Begründet im romantischen Fokus auf subjektive Gefühlswelten, kommt der Lyrik 
 
 Die Romantik ist als künstlerische Strömung nicht auf die Schriftstellerei beschränkt: Neben der Malerei, in der die Romantik noch bis Ende des 19. Jahrhunderts andauerte und deren herausragender Vertreter **Caspar David Friedrich** ist, ist hier insbesondere die Musik zu nennen, der die Romantiker eine besondere Fähigkeit zum Ausdruck des Verborgenen zuschrieben und in der die romantische Strömung teils bis ins 20. Jahrhundert Bestand hatte.
 
+---
+---
+---
+
+## **Zusammenfassung** ##
+## Romantik Epoche
+
+Die Romantik ist eine zentrale Literaturepoche in Europa und Nordamerika, die sich von Ende des 18. Jahrhunderts bis Mitte des 19. Jahrhunderts erstreckt. Ihre Ursprünge liegen in England, wobei Deutschland bedeutende Impulse beisteuerte (ca. 1798–1835). Die Romantik verstand sich als bewusste Gegenbewegung zur Aufklärung, Klassik und den gesellschaftlichen Entwicklungen der Frühindustrialisierung.
+
+## Merkmale der Romantik
+
+### Weltflucht und Hinwendung zur Natur
+
+- **Rückkehr zur Natur:** Die Romantiker sahen die Natur als idealen Gegenpol zur als unnatürlich empfundenen urbanen Industrialisierung. Sie strebten nach einer harmonischen Verbindung mit der Natur, oft idealisiert und idyllisiert dargestellt.
+- **Ablehnung der Moderne:** Eine bewusste Distanzierung von den gesellschaftlichen Veränderungen und der technologischen Entwicklung ihrer Zeit.
+
+### Verklärung des Mittelalters
+
+- **Idealisiertes Mittelalter:** Die Romantiker glorifizierten das Mittelalter als eine Zeit von Abenteuer, Ritterlichkeit und Mystik, im Gegensatz zur vorherigen Geringschätzung dieser Epoche.
+- **Hinwendung zu fernen Kulturen:** Neben dem Mittelalter interessierten sich die Romantiker auch für andere, oft exotische Kulturen wie die chinesische und arabische.
+
+### Phantasie- und Traumwelten
+
+- **Individuelle Phantasie:** Die Romantik betonte die kreative Kraft der Phantasie des Individuums, das als unbegrenzt und machtvoll dargestellt wurde.
+- **Traum und Schlafzustand:** Träume und der Schlaf wurden als Mittel zur Erforschung der tiefen, oft dunklen Bereiche der Seele genutzt.
+
+### Betonung des Individuums und Subjektiven
+
+- **Subjektive Wahrnehmung:** Im Zentrum romantischer Werke stehen die Gefühle und Emotionen des Individuums, oft wichtiger als rationales Denken.
+- **Erforschung von Gefühlswelten:** Die Romantik wollte die inneren, geheimnisvollen Aspekte der menschlichen Psyche bewahren und darstellen.
+
+### Das Nachtmotiv und der Tod
+
+- **Vergänglichkeit und Geheimnisvolles:** Tod und Vergänglichkeit wurden häufig thematisiert, oft durch Metaphern und im Kontext der Nacht dargestellt.
+- **Obskure Phänomene:** Das Dunkle und Geheimnisvolle fand sein ästhetisches Zentrum im Nachtmotiv.
+
+### Politische Inhalte
+
+- **Förderung von Nationalismus:** Besonders in Deutschland und Polen nutzten die Romantiker ihre Werke zur Unterstützung nationalstaatlicher Vereinigung und Unabhängigkeit.
+
+---
+
+## Bekannte Autoren der Romantik
+
+- **Novalis** – Ein bedeutender deutscher Dichter und Philosoph.
+- **E. T. A. Hoffmann** – Bekannt für seine fantastischen Erzählungen und Novellen.
+- **Joseph von Eichendorff** – Einer der prominentesten deutschen Romantiker.
+- **Lord Byron** – Ein führender englischer Dichter der romantischen Bewegung.
+- **Mary Shelley** – Autorin von *Frankenstein*, einem der bekanntesten romantischen Werke.
+- **Edgar Allan Poe** – Ein einflussreicher amerikanischer Schriftsteller, bekannt für seine Kurzgeschichten und Gedichte.
+
+---
+
+## Bekannte Werke der Romantik
+
+### E. T. A. Hoffmann
+- **Der goldne Topf** (1814)
+- **Der Sandmann** (1816)
+
+### William Beckford
+- **Die Geschichte des Kalifen Vathek** (1786)
+
+### Samuel Taylor Coleridge
+- **„Die Ballade vom alten Seemann“** (1798)
+
+### Novalis
+- **Hymnen an die Nacht** (1800)
+
+### Heinrich von Kleist
+- **Die Marquise von O…** (1808)
+
+### Mary Shelley
+- **Frankenstein oder Der moderne Prometheus** (1818)
+
+### Adam Mickiewicz
+- **Pan Tadeusz** (1834)
+
+### Edgar Allan Poe
+- **„Der Untergang des Hauses Usher“** (1839)
+- **„Der Rabe“** (1845)
+
+## Weltanschauung der Romantik
+
+Die Romantik reagierte auf die rationalistische Aufklärung und Klassik sowie auf die politischen Umwälzungen wie die Französische Revolution und die Napoleonischen Kriege. Sie suchte nach inneren, individuellen Welten als Flucht vor einer als feindlich empfundenen modernen Umwelt, geprägt von rasch wachsenden Städten, industrieller Verschmutzung und sozialen Spannungen. Die Romantiker betonten die Wichtigkeit der subjektiven Erfahrung und die Bewahrung von Geheimnissen über wissenschaftliche Erkenntnis.
+
+## Unterschiede zur Klassik
+
+- **Harmonie vs. Maß- und Regellosigkeit:**
+  - **Klassik:** Streben nach harmonischer Vollendung und gedanklicher Klarheit.
+  - **Romantik:** Betonung von Maß- und Regellosigkeit, inspiriert vom Barock und dem Sturm und Drang.
+- **Phantasiefreiheit:** Die Romantik legte die kreative Freiheit der Phantasie über die strikten Regeln der Klassik.
+- **Fokus auf Subjektivität:** Während die Klassik eine nach außen gewandte Geltungssucht hatte, richtete die Romantik den Fokus auf die Innenwelten des Individuums.
+- **Verschwimmen der Genre-Grenzen:** In der Romantik verschwammen die Grenzen zwischen Lyrik und Epik, und es entstand eine stärkere Betonung kürzerer literarischer Formen wie die Kurzgeschichte und Novelle.
+
+## Zentren der Romantik
+
+- **England und Deutschland:** Ursprüngliche und zentrale Regionen der romantischen Bewegung.
+- **Frankreich:** Diente als wichtiges Bindeglied für verschiedene romantische Strömungen und Autoren.
+- **Polen:** Die Romantik hatte einen hohen Stellenwert, vergleichbar mit der deutschen Klassik.
+- **Nordamerika:** Edgar Allan Poe beeinflusste die romantische Literatur maßgeblich, obwohl seine Bekanntheit erst durch die Rezeption in Frankreich zunahm.
+
+## Bevorzugte Formen der Romantik
+
+- **Lyrik:** Zentraler Ausdruck der romantischen Betonung auf subjektive Gefühlswelten.
+- **Kurzgeschichte und Novelle:** Besonders durch Edgar Allan Poe und E. T. A. Hoffmann entwickelt und populär gemacht.
+- **Roman:** Insbesondere der Schauerroman (*Gothic Novel*) war eine bedeutende Form, initiiert durch Horace Walpole.
+- **Drama:** Weniger beliebt, da es als ungeeignet galt, die Innenwelten der Figuren darzustellen.
+- **Andere Kunstformen:**
+  - **Malerei:** *Caspar David Friedrich* ist ein herausragender Vertreter.
+  - **Musik:** Die Romantik prägte auch die Musik bis ins 20. Jahrhundert, indem sie das Verborgene und Emotionale ausdrückte.
+
+## Zusammenfassung
+
+Die Romantik markierte eine tiefgreifende kulturelle und literarische Verschiebung hin zu subjektiven und individuellen Ausdrucksformen. Sie stellte eine bewusste Gegenbewegung zur Aufklärung und Klassik dar, indem sie Emotion, Phantasie und das Individuum in den Vordergrund rückte. Mit ihrer Hinwendung zur Natur, der Verklärung des Mittelalters, der Erforschung von Traumwelten und der Betonung von Geheimnissen beeinflusste die Romantik nachhaltig die europäische Kultur und Literatur. Ihre Vielfalt an Autoren und Werken sowie die verschiedenen kunstformalen Innovationen machten sie zu einer prägnanten und einflussreichen Epoche in der Literaturgeschichte.
+
 
 ### **Literaturbuch (S. 60 bis 63)** ### 
 ![image4](https://github.com/user-attachments/assets/f5a0187c-8f90-4f88-9a86-4f729588b8b5)
