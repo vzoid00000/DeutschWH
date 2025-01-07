@@ -2,7 +2,11 @@
 
 ## **Datei: Romantik – Epoche und Merkmale (Moodle)** ##
 
+
+
 ## Romantik Literaturepoche
+
+![image](https://github.com/user-attachments/assets/0dfad973-18a3-4883-b779-5aeecfb6889b)
 
 Die Romantik ist eine Literaturepoche in Europa und Nordamerika, die mit gewissen regionalen Unterschieden vom Ende des 18. bis in die Mitte des 19. Jahrhunderts reichte. Ihre Ursprünge liegen in England, aber auch aus Deutschland kamen wichtige Impulse, wo sie von 1798 und 1835 verortet wird. Die Romantik versteht sich bewusst als Gegenbewegung zu den gesellschaftlichen Entwicklungen ihrer Zeit, wie auch als Gegenentwurf zur ihr vorangegangenen Epoche der Klassik. Die uneingeschränkte Betonung des Individuums, die Wertschätzung subjektiver Gefühlswelten, und eine ästhetische Vorliebe für das Dunkle und Geheimnisvolle sind einige der entscheidendsten Merkmale der Romantik.
 
