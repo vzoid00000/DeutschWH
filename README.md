@@ -87,4 +87,15 @@ Die Romantik ist als künstlerische Strömung nicht auf die Schriftstellerei bes
 
 ### **Literaturbuch (S. 60 bis 63)** ### 
 ![image4](https://github.com/user-attachments/assets/f5a0187c-8f90-4f88-9a86-4f729588b8b5)
+![image5](https://github.com/user-attachments/assets/d9e49368-db4d-492e-9b16-23509fecd555)
+![image6](https://github.com/user-attachments/assets/4d27c234-007f-4c1d-9050-7e46db44f446)
+![image7](https://github.com/user-attachments/assets/5c4317a3-b30b-4604-af1a-506e5022cac9)
+
+### **Faust Literaturbuch (S. 54 bis 56)** ### 
+![image1](https://github.com/user-attachments/assets/db8d468f-fd84-43ae-bbae-5e8a2c133080)
+![image2](https://github.com/user-attachments/assets/cd0917e8-7fc0-4d08-b8c4-180d38e5adcd)
+![image3](https://github.com/user-attachments/assets/c296f7cd-2a21-4f29-bcaa-97d3bbaad068)
+
+
+
 
